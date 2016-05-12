@@ -1,4 +1,7 @@
 # lego
+
+ [![license](http://img.shields.io/badge/license-MIT-red.svg?style=flat)](https://raw.githubusercontent.com/pschlump/Go-FTL/master/LICENSE)
+
 Let's Encrypt client and ACME library written in Go
 
 [![GoDoc](https://godoc.org/github.com/xenolf/lego/acme?status.svg)](https://godoc.org/github.com/xenolf/lego/acme)
